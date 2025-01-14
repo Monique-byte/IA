@@ -27,15 +27,18 @@ ChatGPT: Para criação e refinamento de texto.
 DALL·E: Para geração de imagens altamente detalhadas e estéticas.
 Canva: Para aprimoramento visual e montagem final do conteúdo.
 MidJourney: Auxiliou na inspiração e geração de conceitos visuais.
+
 🧐 Processo de Criação
 Planejamento: Definição do conceito central do projeto, com foco na estética como tema principal.
 Pesquisa: Análise de tendências estéticas contemporâneas para alinhar o conteúdo ao que é visualmente marcante.
 Produção: Uso de ferramentas de IA para gerar textos e imagens complementares. As imagens foram ajustadas para se alinhar ao tema escolhido.
 Refinamento: Ajustes finais no design e narrativa para garantir uma apresentação coesa e atraente.
+
 🚀 Resultados
 Criação de um conteúdo visual e textual altamente estético, que combina inovação tecnológica com sensibilidade artística.
 Desenvolvimento de imagens marcantes e impactantes, capazes de captar atenção imediata.
 Conteúdo final apresentável e alinhado às expectativas de qualidade e criatividade.
+
 💭 Reflexão (Opcional)
 Trabalhar com IAs para desenvolver algo tão focado na estética foi um desafio interessante. Foi necessário um equilíbrio entre as capacidades da tecnologia e o toque humano para obter o melhor resultado. Criar algo "natty" (natural) em meio à intervenção tecnológica exigiu criatividade e uma boa dose de experimentação.
 ### Exemplos e Insigths
